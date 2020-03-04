@@ -1,0 +1,22 @@
+{
+  "name": "ympg",
+  "version": "0.0.0",
+  "description": "Analyses etc. for York Music Psychology Group",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mstrcyork/ympg.git"
+  },
+  "keywords": [
+    "music",
+    "psychology"
+  ],
+  "author": "Tom Collins and various others",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {},
+  "devDependencies": {},
+  "dependencies": {
+    "@tonejs/midi": "^2.0.15",
+    "maia-util": "^0.2.16"
+  }
+}
