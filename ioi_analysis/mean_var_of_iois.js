@@ -117,5 +117,5 @@ function std(x){
   x.forEach(function(val){
     ss += Math.pow((val - xbar), 2);
   })
-  return ss/(x.length - 1)
+  return Math.sqrt(ss/(x.length - 1))
 }
